@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Help Ma!</string>
+    <string name="registration_link">Not having account ? <b>Sign Up Here</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="Channel_Name">Push Notification</string>
+    <string name="Channel_Id">1001</string>
+    <string name="preganancy_questions">Are you pregnant, will become pregnant, or have you just had a baby?</string>
+
+
+    <string-array name="blood_groups">
+        <item>Select Blood Group</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string name="prompt">Select Blood Group</string>
+
+    <string name="data_analysis">You will receive data analysis soon if you completed the medical detail page, look for your notifications.</string>
+</resources>

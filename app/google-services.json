@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105272501540",
+    "firebase_url": "https://helpma-d4709.firebaseio.com",
+    "project_id": "helpma-d4709",
+    "storage_bucket": "helpma-d4709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105272501540:android:4f8ddf7db5d86aa043ffb1",
+        "android_client_info": {
+          "package_name": "com.plexoc.helpma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105272501540-mvvi8cjg3eaumsdlgik77n3l0n059579.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeHhRAuamhhUca9EJS_-W14-k26Inxgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105272501540-mvvi8cjg3eaumsdlgik77n3l0n059579.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
